@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-image:url(../images/back2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+
+    
+    
+  }
+  head{
+    line-height:0.2;
+  }
+  a{
+    color:#ccc;
+  }
+  
+  header {
+    background-image: linear-gradient(#cc2b5e , #753a88);
+    background-attachment: fixed;
+    color: #fff;
+    border-radius:5px;
+    position: sticky;
+    display: block;
+  top: 0;
+  z-index: 1;
+  
+    
+      }
+  .mp{
+    font-size: 4vw;
+    display: inline-block;
+    position: relative;
+    padding: 10px;
+    
+    
+  }
+  .nm{
+    
+    text-align: center;
+    display: inline-block;
+    margin-left: 15%;
+    font-size:4vw;
+    position: relative;
+    padding :10px
+  }
+  #name{
+    font-family:'Audiowide', sans-serif;
+  }
+  .pic{
+    height: 25vw;
+    width: 20vw;
+    position: absolute;
+    top:170px;
+    right:50px;
+    display:inline-block;
+    border-radius: 10%;
+
+    
+    
+  }
+  .cnt{
+    height: 5vw;
+    width: 5vw;
+  }
+  .cnt1
+  {
+    height:5vw;
+    width:7vw;
+  }
+
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+     
+    
+  }
+  
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav li:last-child {
+    margin-right: 0;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .project p {
+    margin-bottom: 10px;
+  }
+  
+  
